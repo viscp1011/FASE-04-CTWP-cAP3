@@ -1,3 +1,19 @@
+FIAP - Faculdade de Informática e Administração Paulista
+FIAP - Faculdade de Informática e Admnistração Paulista
+
+
+Nome do grupo
+👨‍🎓 Integrante:
+Vitório Paciulo
+
+👩‍🏫 Professores:
+
+Tutor(a):
+Ana Cristina dos Santos
+
+Coordenador(a):
+André Godoi Chiovato
+
 # 🌾 Classificação de Grãos de Trigo com Aprendizado de Máquina (Seeds Dataset – CRISP-DM)
 
 Este projeto aplica **aprendizado de máquina** para classificar **variedades de trigo** a partir de suas **características físicas**, utilizando o famoso **Seeds Dataset** (UCI Machine Learning Repository) e a metodologia **CRISP-DM**.
